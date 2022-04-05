@@ -43,16 +43,16 @@ export default {
   name: 'App',
   components: {
     // HelloWorld,
-    TplDemo,
-    watchDemo,
-    ClassDemo,
-    ConditionDemo,
-    ListDemo,
-    EventDemo,
-    FormDemo,
+    // TplDemo,
+    // watchDemo,
+    // ClassDemo,
+    // ConditionDemo,
+    // ListDemo,
+    // EventDemo,
+    // FormDemo,
 
-    ComponentDemo,
-    myComponentDemo,
+    // ComponentDemo,
+    // myComponentDemo,
     
     AdvancedUse,
   }

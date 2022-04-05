@@ -13,11 +13,6 @@
 </template>
 <script>
 export default {
-    data(){
-        return{
-
-        }
-    },
     model:{
         prop: 'text1',
         event: 'change1'
